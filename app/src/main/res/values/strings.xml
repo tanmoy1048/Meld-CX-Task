@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meld CX Web Capture</string>
+    <string name="capture">Capture</string>
+    <string name="go">Go</string>
+    <string name="history">History</string>
+    <string name="delete">Delete</string>
+    <string name="screenshot_list">Screenshot List</string>
+</resources>
